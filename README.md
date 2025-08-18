@@ -5,7 +5,7 @@
 
 <h1 align="center">HiFiNi - 音乐磁场签到助手</h1>
 
-<p align="center">一键签到、消息推送、自动化工作流。</p>
+<p align="center">自动签到、消息推送、自动化工作流。</p>
 
 ---
 
@@ -45,7 +45,7 @@
 
 ### 获取 HiFiNi Cookie
 
-1. 访问 [https://www.hifini.com/](https://www.hifini.com/)
+1. 访问 [https://www.hifiti.com/](https://www.hifiti.com/)
 2. 打开浏览器开发者工具（`F12`）。
 3. 在 `请求头` 中找到并复制你的 Cookie。
 
